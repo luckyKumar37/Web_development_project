@@ -1,0 +1,63 @@
+body
+{
+    background-color: #24373D;
+    color: #ffffff;
+}
+
+#header
+{
+    margin-top: 100px;
+    padding-left: 40%;
+}
+
+h1
+{
+    margin:5px 0;
+}
+
+.colored_txt
+{
+    color: #3CCF91;
+}
+
+#input_field
+{
+    padding-left: 40%;
+    margin-top: 40px;
+}
+
+
+#pass_size
+{
+    background-color: #1E2A30;
+    color: #7A8F98;
+}
+
+#pass_gen
+{
+    background-color: #3CCF91;
+    margin-top: 10px;
+    padding: 10px;
+    border-radius: 8px;
+}
+
+.passwords
+{
+    display: flex;
+    justify-content: center;
+
+}
+
+.pass
+{
+    background-color: #1E2A30;
+    height: 40px;
+    width: 200px;
+    margin-right: 20px;
+    margin-top: 20px;
+    color: #3CCF91;
+    text-align: center;
+    padding-top: 10px;
+    font-size: 20px;
+
+}
